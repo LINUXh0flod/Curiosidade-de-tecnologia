@@ -58,6 +58,13 @@ iframe {
 
 /*==HEADER====*/
 
+
+.f {
+  position: relative;
+  left: 25rem;
+  
+}
+
 header {
   background-color: var(--cor06);
   min-height: 150px;
